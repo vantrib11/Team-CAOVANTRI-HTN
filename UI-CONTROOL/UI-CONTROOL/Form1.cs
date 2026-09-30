@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UI_CONTROL_CAR
+namespace UI_CONTROOL
 {
     public partial class Form1 : Form
     {

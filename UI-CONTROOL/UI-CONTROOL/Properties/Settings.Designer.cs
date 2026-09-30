@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UI_CONTROL_CAR.Properties
+namespace UI_CONTROOL.Properties
 {
 
 

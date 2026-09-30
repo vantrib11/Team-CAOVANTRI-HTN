@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TT_EmbeddedSystem\\WINFORM\\UI_CONTROL_CAR\\",
+  "WorkspaceRootPath": "D:\\1EMBEDDED\\Team-CAOVANTRI-HTN\\UI-CONTROOL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3809D55-5E85-4F00-9D07-CD7218BF7C35}|UI_CONTROL_CAR\\UI_CONTROL_CAR.csproj|d:\\tt_embeddedsystem\\winform\\ui_control_car\\ui_control_car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B3809D55-5E85-4F00-9D07-CD7218BF7C35}|UI_CONTROL_CAR\\UI_CONTROL_CAR.csproj|solutionrelative:ui_control_car\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5D120278-480B-401F-9162-2396DAD553B9}|UI-CONTROOL\\UI-CONTROOL.csproj|d:\\1embedded\\team-caovantri-htn\\ui-controol\\ui-controol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D120278-480B-401F-9162-2396DAD553B9}|UI-CONTROOL\\UI-CONTROOL.csproj|solutionrelative:ui-controol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,12 +20,12 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\TT_EmbeddedSystem\\WINFORM\\UI_CONTROL_CAR\\UI_CONTROL_CAR\\Form1.cs",
-              "RelativeDocumentMoniker": "UI_CONTROL_CAR\\Form1.cs",
-              "ToolTip": "D:\\TT_EmbeddedSystem\\WINFORM\\UI_CONTROL_CAR\\UI_CONTROL_CAR\\Form1.cs [Design]",
-              "RelativeToolTip": "UI_CONTROL_CAR\\Form1.cs [Design]",
+              "DocumentMoniker": "D:\\1EMBEDDED\\Team-CAOVANTRI-HTN\\UI-CONTROOL\\UI-CONTROOL\\Form1.cs",
+              "RelativeDocumentMoniker": "UI-CONTROOL\\Form1.cs",
+              "ToolTip": "D:\\1EMBEDDED\\Team-CAOVANTRI-HTN\\UI-CONTROOL\\UI-CONTROOL\\Form1.cs [Design]",
+              "RelativeToolTip": "UI-CONTROOL\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T00:56:39.749Z",
+              "WhenOpened": "2026-09-30T02:17:35.497Z",
               "EditorCaption": " [Design]"
             },
             {

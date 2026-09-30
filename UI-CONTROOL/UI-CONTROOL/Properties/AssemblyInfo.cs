@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UI_CONTROL_CAR")]
+[assembly: AssemblyTitle("UI-CONTROOL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UI_CONTROL_CAR")]
+[assembly: AssemblyProduct("UI-CONTROOL")]
 [assembly: AssemblyCopyright("Copyright ©  2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b3809d55-5e85-4f00-9d07-cd7218bf7c35")]
+[assembly: Guid("5d120278-480b-401f-9162-2396dad553b9")]
 
 // Version information for an assembly consists of the following four values:
 //
