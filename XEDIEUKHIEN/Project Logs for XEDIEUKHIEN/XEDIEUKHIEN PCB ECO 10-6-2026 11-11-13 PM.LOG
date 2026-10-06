@@ -1,0 +1,54 @@
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=HC 05 Bluetooth
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=LCD1
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=U3
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=U4
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=U?
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=VR1
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=X1
+Removed Member From Class: ClassName=XEDIEUKHIEN Member=X2
+Added Component: Designator=C6(HDR6)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=GND Pin=MD1-39
+Added Pin To Net: NetName=ENA Pin=C6-6
+Added Pin To Net: NetName=ENA Pin=MD1-8
+Added Net: Name=ENA
+Added Pin To Net: NetName=ENB Pin=C6-1
+Added Pin To Net: NetName=ENB Pin=MD1-16
+Added Net: Name=ENB
+Added Pin To Net: NetName=IN1 Pin=C6-5
+Added Pin To Net: NetName=IN1 Pin=MD1-11
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=C6-4
+Added Pin To Net: NetName=IN2 Pin=MD1-12
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=C6-3
+Added Pin To Net: NetName=IN3 Pin=MD1-23
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=C6-2
+Added Pin To Net: NetName=IN4 Pin=MD1-13
+Added Net: Name=IN4
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=NetC1_3 Pin=MD1-34
+Added Net: Name=NetC1_3
+Added Pin To Net: NetName=NetC1_4 Pin=C1-4
+Added Pin To Net: NetName=NetC1_4 Pin=MD1-35
+Added Net: Name=NetC1_4
+Added Member To Class: ClassName=XEDIEUKHIEN Member=Component C6 Header6

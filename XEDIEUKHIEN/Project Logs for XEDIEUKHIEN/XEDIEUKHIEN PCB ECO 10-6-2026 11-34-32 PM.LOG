@@ -1,0 +1,3 @@
+Change Component Comment : Designator=SW2 Old Comment=SW New Comment=BOOT_BT
+Change Component Designator: OldDesignator=1 NewDesignator=10k
+Change Component Designator: OldDesignator=SW1 NewDesignator=EN_BT

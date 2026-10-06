@@ -16,5 +16,10 @@ namespace UI_CONTROOL
         {
             InitializeComponent();
         }
+
+        private void bt_Stop_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,5 @@
+Change Component Comment : Designator=L1 Old Comment=150mH New Comment=47uH
+Change Component Comment : Designator=LED1 Old Comment=LED3 New Comment=
+Change Component Comment : Designator=D1 Old Comment=SS24T3G New Comment=SS24_DIODE
+Change Component Designator: OldDesignator=HEADER NewDesignator=H1
+Added Pin To Net: NetName=GND Pin=U2-1
